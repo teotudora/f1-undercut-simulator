@@ -22,7 +22,7 @@ An object-oriented Formula 1 race strategy engine written in Python. This framew
 
 ## 📊 Weather Crossover Simulation Output
 
-![F1 Dynamic Weather Crossover & Strategy Simulator](docs/assets/weather_crossover_plot.png)
+![F1 Dynamic Weather Crossover & Strategy Simulator](weather_undercut_simulation.png)
 
 ---
 
